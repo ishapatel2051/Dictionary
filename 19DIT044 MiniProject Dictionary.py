@@ -1,27 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-
-
-
-# In[1]:
-
-
 import sys
 get_ipython().system('{sys.executable} -m pip install PyDictionary')
-
-
-# In[ ]:
-
-
-
-
-
-# In[28]:
-
 
 import tkinter as tk
 from tkinter import ttk
